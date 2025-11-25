@@ -1,3 +1,4 @@
+#Privacy Policy
 <html>
 <title>Privacy Policy for studyAir</title>
 
